@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects, in order to sharpen skillsets.
 - 📫 contact me by email: kgichovi04@gmail.com 
 
-Favourite languages: python , JavaScript
+Favourite languages: python , JavaScript, PHP
 
 <!---
 KeithGichovi/KeithGichovi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
